@@ -1,0 +1,57 @@
+div{
+	overflow: auto;
+	border-style: solid;
+	border-width: 5px;
+}
+#jpg{
+	float: right;
+
+}
+#green{
+	
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: white;
+	border-color: white;
+	border-width: 10px;
+	
+}
+
+#red{
+	text-align: right;
+	background-color: #A8F0F0;
+	border-width: 0px;
+
+}
+#text{
+	font-size: 14pt;
+}
+#orange{
+	border-width: 0px;
+}
+#purple{
+	border-color: blue;
+	border-bottom-style: dashed;
+	border-width: 2px;
+}
+#f{
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10%;
+	border-width: 0px;
+}
+#friend{
+	padding: 10px;
+}
+#blue{
+	
+	
+	margin-top: 10px;
+	border-color: #C2E9E9;
+	background-color: #E8FBFB;
+	border-width: 4px;
+
+
+}
+
